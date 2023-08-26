@@ -1,2 +1,1 @@
-# prep
-repo de prueba
+este proyecto es una pureba de como crear un repositoriio 
